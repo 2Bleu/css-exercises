@@ -1,0 +1,19 @@
+div#2{
+    color: #bbbbbd;
+    font-size: 36px;
+}
+
+div#4{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+p {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu Sans,sans-serif;
+}
+
+.odd .cool {
+    font-size: 24px;
+}
