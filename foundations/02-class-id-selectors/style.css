@@ -1,9 +1,9 @@
-div#2{
-    color: #bbbbbd;
+#first {
+    color: #0000ff;
     font-size: 36px;
 }
 
-div#4{
+#second {
     background-color: #90ee90;
     font-size: 24px;
     font-weight: 700;
